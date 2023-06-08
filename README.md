@@ -1,5 +1,5 @@
 # Text generation
-The Python script included in this repository contains a couple of classes for the creation of toy text generation models. The first one is an n-gram model implemented from scratch, and the seccond a Long Short-Term Memory (LSTM) network-based one.
+The Python script included in this repository contains a couple of classes for the creation of toy text generation models. The first one is an n-gram model implemented from scratch, and the second a Long Short-Term Memory (LSTM) network-based one.
 A Jupyter Notebook is included describing the creation and/or training process of the models, as well as the generation of some texts based on a couple of corpora; which are likewise included.  
 It also includes pre-created/pre-trained models you can use to start generating text right away. 
 
