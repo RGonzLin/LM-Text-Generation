@@ -8,7 +8,7 @@ It also includes pre-created/pre-trained models you can use to start generating 
 * Create n-gram and LSTM-based models for text generation
 * Control parameters such as:
   *  Maximum number of tokens to be generated before halting 
-  *  Cutoff for the probability distibution to only consider the top tokens, as creativity control 
+  *  Cutoff for the probability distibution to only consider the top tokens, as creativity control (akin to temperature)
   *  Maximum vovabulary size to control complexity
 * Train the the LSTM-based model on the processed corpus
 * Model testing using perplexity as a metric
